@@ -161,6 +161,7 @@ A modelagem considera os seguintes conceitos:
 | Agente > Empresa                   | Herança       | Empresa é um tipo de agente.                    |
 | Agente > Banco                     | Herança       | Banco é um tipo de agente.                      |
 | Contratante > Vínculo empregatício | 1 para 0..3   | Um contratante pode ter até três vínculos.      |
+| Cliente > Contratante              | 1 para 1      | Cada cliente possui um contratante associado.   |
 | Cliente > Pedido                   | 1 para N      | Um cliente pode realizar diversos pedidos.      |
 | Pedido > Avaliação                 | 1 para N      | Um pedido pode receber avaliações.              |
 | Agente > Avaliação                 | 1 para N      | Um agente pode realizar diversas avaliações.    |
