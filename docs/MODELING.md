@@ -37,7 +37,7 @@ O agente é uma generalização que permite representar funcionalidades comuns �
 
 ### Explicação dos casos de uso
 
-| Casodeuso           | Descrição                                                 |
+| Caso de uso         | Descrição                                                 |
 | ------------------- | --------------------------------------------------------- |
 | Cadastrar-se        | Permite que um novo cliente crie uma conta.               |
 | RealizarLogin       | Autentica o usuário por meio de usuário e senha.          |
