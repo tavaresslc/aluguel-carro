@@ -156,7 +156,7 @@ A modelagem considera os seguintes conceitos:
 
 | Relacionamento                     | Cardinalidade | Justificativa                                   |
 | ---------------------------------- | ------------- | ----------------------------------------------- |
-| Usuario > Cliente                  | Herança       | Cliente é um tipodeusuário.                     |
+| Usuario > Cliente                  | Herança       | Cliente é um tipo de usuário.                     |
 | Usuario > Agente                   | Herança       | Agente também precisa autenticar-se.            |
 | Agente > Empresa                   | Herança       | Empresa é um tipo de agente.                    |
 | Agente > Banco                     | Herança       | Banco é um tipo de agente.                      |
