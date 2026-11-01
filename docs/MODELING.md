@@ -200,7 +200,7 @@ Assim, também é possível manter um histórico de avaliações de um pedido.
 
 ## 5. Diagrama de Pacotes
 
-![Diagrama de Classes](./diagrams/package.png)
+![Diagrama de Pacotes](./diagrams/package.png)
 
 ### Responsabilidade de cada pacote
 
