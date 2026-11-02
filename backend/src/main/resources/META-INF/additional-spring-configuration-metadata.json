@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "app.security.token-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'app.security.token-secret'"
+  },
+  {
+    "name": "app.security.token-expiration-minutes",
+    "type": "java.lang.String",
+    "description": "A description for 'app.security.token-expiration-minutes'"
+  },
+  {
+    "name": "app.seed.empresa.senha",
+    "type": "java.lang.String",
+    "description": "A description for 'app.seed.empresa.senha'"
+  },
+  {
+    "name": "app.seed.empresa.email",
+    "type": "java.lang.String",
+    "description": "A description for 'app.seed.empresa.email'"
+  },
+  {
+    "name": "app.seed.banco.senha",
+    "type": "java.lang.String",
+    "description": "A description for 'app.seed.banco.senha'"
+  },
+  {
+    "name": "app.seed.banco.email",
+    "type": "java.lang.String",
+    "description": "A description for 'app.seed.banco.email'"
+  },
+  {
+    "name": "app.seed.empresa.nome",
+    "type": "java.lang.String",
+    "description": "A description for 'app.seed.empresa.nome'"
+  },
+  {
+    "name": "app.seed.banco.nome",
+    "type": "java.lang.String",
+    "description": "A description for 'app.seed.banco.nome'"
+  },
+  {
+    "name": "app.cors.allowed-origins",
+    "type": "java.lang.String",
+    "description": "A description for 'app.cors.allowed-origins'"
+  },
+  {
+    "name": "app.db.pool-max-size",
+    "type": "java.lang.String",
+    "description": "A description for 'app.db.pool-max-size'"
+  },
+  {
+    "name": "app.db.pool-min-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'app.db.pool-min-idle'"
+  }
+]}
