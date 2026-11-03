@@ -50,7 +50,7 @@ export default function Contratos() {
     {
       header: "Crédito",
       cell: (contrato) =>
-        contrato.credito ? formatCurrency(contrato.credito.valor) : "—",
+        contrato.credito ? formatCurrency(contrato.credito.valor) : "-",
     },
     {
       header: "Status",

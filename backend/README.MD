@@ -1,4 +1,4 @@
-# Aluguel de Carro - Backend
+# Carrent - Backend
 
 API REST do sistema de **aluguel de carros** (Spring Boot 4 | Java 25 | PostgreSQL/Supabase).
 Implementa as histórias de usuário US01-US23 descritas em [`/docs`](../docs).

@@ -42,7 +42,7 @@ export function InfoGrid({
           <dt className="text-xs font-medium uppercase tracking-wide text-slate-500">
             {label}
           </dt>
-          <dd className="mt-0.5 text-sm text-slate-900">{value || "—"}</dd>
+          <dd className="mt-0.5 text-sm text-slate-900">{value || "-"}</dd>
         </div>
       ))}
     </dl>
