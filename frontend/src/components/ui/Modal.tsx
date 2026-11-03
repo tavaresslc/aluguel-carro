@@ -13,7 +13,7 @@ export function Modal({
   const dialog = useRef<HTMLDialogElement>(null);
 
   useEffect(() => {
-    dialog.current?.showModal();
+    if (!dialog.current?.open) dialog.current?.showModal();
   }, []);
 
   return (
