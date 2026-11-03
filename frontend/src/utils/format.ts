@@ -10,7 +10,7 @@ export function formatDate(iso: string) {
 export const formatDateTime = (iso: string) =>
   new Date(iso).toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short" });
 
-export const today = () => new Date().toLocaleDateString("en-CA");
+export const today = () => new Intl.DateTimeFormat("en-CA", { timeZone: "America/Sao_Paulo" }).format(new Date());
 
 export function maskCpf(value: string) {
   const digits = value.replace(/\D/g, "").slice(0, 11);
