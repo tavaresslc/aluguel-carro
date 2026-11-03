@@ -915,6 +915,6 @@ Contribuições são bem-vindas. Para colaborar com o projeto:
 
 ## 📄 Licença
 
-Não foi identificado um arquivo `LICENSE` no repositório enviado. Portanto, a licença de distribuição do Carrent ainda não está especificada neste documento.
+Este projeto é distribuído sob a **[Licença MIT](./LICENSE)**.
 
-Antes de distribuir ou permitir o uso, modificação e redistribuição do código por terceiros, recomenda-se definir uma licença e adicionar o respectivo arquivo `LICENSE` à raiz do repositório.
+---
